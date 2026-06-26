@@ -1,0 +1,17 @@
+[
+  {
+    "name": "all",
+    "weights": {
+      "HT_CAP_INFO": 0.523,
+      "HT_AMPDU_PARMS": 0.484,
+      "HT_MCS_SET": 0.401,
+      "HT_EXT_CAP": 0.180,
+      "HT_Tx": 0.050,
+      "HT_ANTENNA": 0.050,
+      "TAG_LIST": 0.634,
+      "EXT_CAP": 0.670,
+      "DATA_RTS.SUPP": 0.564,
+      "DATA_RTS.EXT": 0.340
+    }
+  }
+]

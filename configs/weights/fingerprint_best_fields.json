@@ -1,0 +1,11 @@
+[
+  {
+    "name": "best",
+    "weights": {
+      "HT_CAP_INFO": 0.523,
+      "HT_AMPDU_PARMS": 0.484,
+      "TAG_LIST": 0.634,
+      "EXT_CAP": 0.670
+    }
+  }
+]

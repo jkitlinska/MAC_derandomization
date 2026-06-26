@@ -1,0 +1,47 @@
+[
+  {
+    "name": "metrics_only",
+    "weights": {
+      "HT_CAP_INFO": 0.523,
+      "HT_AMPDU_PARMS": 0.484,
+      "HT_MCS_SET": 0.401,
+      "HT_EXT_CAP": 0.180,
+      "HT_Tx": 0.050,
+      "HT_ANTENNA": 0.050,
+      "TAG_LIST": 0.634,
+      "EXT_CAP": 0.670,
+      "DATA_RTS.SUPP": 0.564,
+      "DATA_RTS.EXT": 0.340
+    }
+  },
+  {
+    "name": "k_2",
+    "weights": {
+      "HT_CAP_INFO": 1.114,
+      "HT_AMPDU_PARMS": 0.929,
+      "HT_MCS_SET": 0.634,
+      "HT_EXT_CAP": 0.229,
+      "HT_Tx": 0.126,
+      "HT_ANTENNA": 0.126,
+      "TAG_LIST": 1.854,
+      "EXT_CAP": 2.185,
+      "DATA_RTS.SUPP": 1.346,
+      "DATA_RTS.EXT": 0.479
+    }
+  },
+  {
+    "name": "k_10",
+    "weights": {
+      "HT_CAP_INFO": 1.716,
+      "HT_AMPDU_PARMS": 0.694,
+      "HT_MCS_SET": 0.103,
+      "HT_EXT_CAP": 0.001,
+      "HT_Tx": 0.000,
+      "HT_ANTENNA": 0.000,
+      "TAG_LIST": 21.893,
+      "EXT_CAP": 49.831,
+      "DATA_RTS.SUPP": 4.414,
+      "DATA_RTS.EXT": 0.025
+    }
+  }
+]

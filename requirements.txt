@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pyshark
+PyYAML
+scapy
+scikit-learn
+tabulate
+tqdm

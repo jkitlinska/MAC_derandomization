@@ -1,0 +1,32 @@
+[
+  {
+    "name": "metrics_only",
+    "weights": {
+      "HT_CAP": 0.732,
+      "TAG_LIST": 0.634,
+      "EXT_CAP": 0.67,
+      "DATA_RTS.SUPP": 0.564,
+      "DATA_RTS.EXT": 0.34
+    }
+  },
+  {
+    "name": "k_2",
+    "weights": {
+      "HT_CAP": 2.914,
+      "TAG_LIST": 1.854,
+      "EXT_CAP": 2.185,
+      "DATA_RTS.SUPP": 1.346,
+      "DATA_RTS.EXT": 0.479
+    }
+  },
+  {
+    "name": "k_10",
+    "weights": {
+      "HT_CAP": 210.184,
+      "TAG_LIST": 21.893,
+      "EXT_CAP": 49.831,
+      "DATA_RTS.SUPP": 4.414,
+      "DATA_RTS.EXT": 0.025
+    }
+  }
+]

@@ -1,0 +1,9 @@
+name: ht_combined
+description: "All selected fields used for fingerprinting and derandomization experiments with single field HT Capabilities."
+
+active_fields:
+  - HT_CAP
+  - TAG_LIST
+  - EXT_CAP
+  - DATA_RTS.SUPP
+  - DATA_RTS.EXT

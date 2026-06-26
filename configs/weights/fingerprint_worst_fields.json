@@ -1,0 +1,13 @@
+[
+  {
+    "name": "worst",
+    "weights": {
+      "HT_MCS_SET": 0.401,
+      "HT_EXT_CAP": 0.180,
+      "HT_Tx": 0.050,
+      "HT_ANTENNA": 0.050,
+      "DATA_RTS.SUPP": 0.564,
+      "DATA_RTS.EXT": 0.340
+    }
+  }
+]

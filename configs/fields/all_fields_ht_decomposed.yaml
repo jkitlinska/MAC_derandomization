@@ -1,0 +1,14 @@
+name: all_fields
+description: "All selected fields used for fingerprinting and derandomization experiments with HT Capabilities decomposed."
+
+active_fields:
+  - HT_CAP_INFO
+  - HT_AMPDU_PARMS
+  - HT_MCS_SET
+  - HT_EXT_CAP
+  - HT_Tx
+  - HT_ANTENNA
+  - TAG_LIST
+  - EXT_CAP
+  - DATA_RTS.SUPP
+  - DATA_RTS.EXT

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "no_weights",
+        "weights": {
+            "DATA_RTS.SUPP": 1.00,
+            "DATA_RTS.EXT": 1.00,
+            "HT_CAP": 1.00,
+            "EXT_CAP": 1.00,
+            "TAG_LIST": 1.00
+        }
+    },
+    {
+        "name": "simoncic",
+        "weights": {
+            "DATA_RTS.SUPP": 25.0,
+            "DATA_RTS.EXT": 25.0,
+            "HT_CAP": 400.0,
+            "EXT_CAP": 100.0,
+            "TAG_LIST": 15.0
+        }
+    }
+]

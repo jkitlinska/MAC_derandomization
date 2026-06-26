@@ -1,0 +1,8 @@
+name: best_fields
+description: "Fields selected as the strongest fingerprinting features."
+
+active_fields:
+  - HT_CAP_INFO
+  - HT_AMPDU_PARMS
+  - TAG_LIST
+  - EXT_CAP

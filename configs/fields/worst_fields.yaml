@@ -1,0 +1,10 @@
+name: worst_fields
+description: "Fields selected as weak fingerprinting features."
+
+active_fields:
+  - HT_MCS_SET
+  - HT_EXT_CAP
+  - HT_Tx
+  - HT_ANTENNA
+  - DATA_RTS.SUPP
+  - DATA_RTS.EXT
